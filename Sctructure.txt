@@ -1,0 +1,8 @@
+A -> 	A1 ->	A11 -> 	file.txt
+		A12 -> 	file.txt, script1.js, script2.js
+		A13 -> 	file.txt
+
+B ->	B1 -> 	file.txt, script3.js
+	B2 ->	never gonna give you up.mp3
+	B3 ->	script4.js, script5.js, cript6.js
+	B4 ->	notAScript.txt
